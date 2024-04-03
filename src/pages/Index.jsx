@@ -18,7 +18,7 @@ const Index = () => {
             <Button colorScheme="brown" size="lg">
               Order Now
             </Button>
-            <Button variant="outline" colorScheme="white" size="lg">
+            <Button colorScheme="brown" size="lg">
               Learn More
             </Button>
           </Stack>
