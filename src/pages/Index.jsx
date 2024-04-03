@@ -15,10 +15,10 @@ const Index = () => {
             Discover the rich flavors and aroma of our handcrafted coffee
           </Text>
           <Stack direction={["column", "row"]} spacing={4} justify="center">
-            <Button colorScheme="brown" size="lg">
+            <Button colorScheme="teal" size="lg">
               Order Now
             </Button>
-            <Button colorScheme="brown" size="lg">
+            <Button variant="outline" colorScheme="white" size="lg">
               Learn More
             </Button>
           </Stack>
@@ -63,7 +63,7 @@ const Index = () => {
           <Text fontSize="xl" mb={8}>
             Visit our shop or order online for a delightful coffee experience.
           </Text>
-          <Button colorScheme="brown" size="lg">
+          <Button colorScheme="teal" size="lg">
             Get Started
           </Button>
         </Container>
